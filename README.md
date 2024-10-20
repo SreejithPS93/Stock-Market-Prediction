@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-A neural network model designed using LSTM cells to predict the stock market prices.
+A neural network model designed using LSTM cells to predict stock market prices.
 
 The data used is the apple shares data over 1600 days. The model is designed so that given a lookback, the model predicts the stock market prices of the next day. The lookback refers to the number of days to consider while making the next prediction.
 
